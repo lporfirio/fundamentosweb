@@ -13,7 +13,7 @@ Object.entries(pessoa).forEach(([chave, valor]) => { // destruction array
 })
 
 Object.defineProperty(pessoa, 'dataNascimento', { // - define uma propriedade mais controlada, com mais características
-    enumerable: true, // se pode ou não ser numerda
+    enumerable: true, // se pode ou não ser numerada
     writable: false, // se pode ou não ser reescrita
     value: '01/01/2019' // valor 
 })
