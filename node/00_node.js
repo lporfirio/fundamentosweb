@@ -1,0 +1,1 @@
+// Node é um runtime do JS, formado por 2 partes... o V8 (interpretador javascript de código aberto do google) + LIBUV (trata de forma assíncrona a parte mais lenta do processo, ler banco de dados, acessar arquivo, etc(tudo que diz respeito a I/O))
