@@ -3,9 +3,9 @@
 COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
 
 domingo - 25/09
-> 162
-> 163
-> 164
+> 162 - ok
+> 163 - ok 
+> 164 - ok
 
 segunda 26/09
 > 154 - ok
@@ -20,12 +20,12 @@ terça 27/09
 quarta 28/09
 > 160 - ok
 > 161 - ok
-> 162
+> 162 - ok
 
 quinta 29/09
-> 163
-> 164
-> 165
+> 163 - ok
+> 164 - ok 
+> 165 - ok
 
 sexta 30/09
 > 166
@@ -78,3 +78,9 @@ sexta 23/09
 
 sábado 24/09
 > revisão 42, 43, 44, 
+
+domingo
+> 162
+> 163
+> 164
+> 165
