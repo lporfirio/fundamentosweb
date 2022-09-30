@@ -1,86 +1,147 @@
-1 prêmio
+3 prêmios
 
 COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
 
-domingo - 25/09
-> 162 - ok
-> 163 - ok 
-> 164 - ok
+sexta 29/09
+> 210 - ok
 
-segunda 26/09
-> 154 - ok
-> 155 - ok
-> 156 - ok
+sábado 30/09
+> 211
 
-terça 27/09
-> 157 - ok
-> 158 - ok
-> 159 - ok
+domingo 01/010
+> 212
 
-quarta 28/09
-> 160 - ok
-> 161 - ok
-> 162 - ok
+segunda 02/10
+> 213
+> 214
+> 215
 
-quinta 29/09
-> 163 - ok
-> 164 - ok 
-> 165 - ok
+terça 03/10
+> 216
+> 217
+> 218
 
-sexta 30/09
-> 166
-> 167
-> 168
+quarta 04/10
+> 219
+> 220
+> 221
 
-sábado 01/10
-> 169
-> 170
-> 171
+quinta 05/10
+> 222
+> 223
+> 225
 
-domingo 02/10
-> 172
-> 173
-> 174
+sexta 06/10
+> 226
+> 227
+> 228
+
+sábado 07/10
+> 229
+> 230
+> 231
+
+domingo 08/10
+> 232
+> 233
+
+
 ____________________________________
 ____________________________________
 
 AULAS ASSISTIDAS
-segunda 19/09
-> 140
-
-terça 20/09
-> 141
-> 142
-> 143
-
-quarta 21/09
-> 144
-> 145
-> 146
-> 149
-> 150
-
-quinta 22/09
-> 151
-> 152
-> 153
-> 154
-> 155
-> 156
-> 157
-> 158
-> 159
-> 160
-
-sexta 23/09
-> 161
-> revisão 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 
-
-sábado 24/09
-> revisão 42, 43, 44, 
-
 domingo
 > 162
 > 163
 > 164
 > 165
+> revisão 45, 46, 47
+
+segunda 26/09
+> 166, 167, 168, 169, 170
+> 199, 200
+
+terça 27/09
+> 202, 203, 204
+> revisão 48, 49, 50
+
+quarta 28/09
+> 204 (revisão) 205, 206, 207, 208
+> revisão 51, 52, 53, 54, 55, 56, 57, 58
+
+quinta 29/09
+> 209
+> 59, 60, 61
+
+sexta 30/09
+> 210
+
+
+
+____________________________________
+____________________________________
+
+APRESENTAÇÃO:
+
+Seção 1 - introdução. - ok
+Seção 2 - Configuração de Ambiente. - ok 
+Após a apresentação, agora é pra valer! Aqui começam os estudos:
+
+HTML E CSS:
+
+Seção 12 - Conceitos sobre Web
+Seção 13 - HTML
+Seção 14 - CSS
+Não pule para as próximas etapas se não estiver familiarizado com os conceitos e conhecimento sobre HTML e CSS.
+
+JAVASCRIPT:
+
+Seção 3 - Iniciando com Programação
+Seção 4 - Fundamentos
+Seção 5 - Estruturas de controle
+Seção 6 - Função
+Seção 7 - Objeto
+Seção 8 - Array
+Seção 9 - Lista de Exercícios de Javascript
+Quando estiver confortável com javascript, sugiro ir para a Seção 15 - Integrando HTML, CSS e JS
+
+BOOTSTRAP E JQUERY
+
+Seção 19 - JQuery
+Seção 20 - Bootstrap
+
+SE VOCÊ CHEGOU ATÉ AQUI, MEUS PARABÉNS! VOCÊ JÁ PODE TRABALHAR DANDO MANUTENÇÃO EM MUITOS, REPITO: MUITOS SITES E SISTEMAS "LEGADOS".
+
+Agora, vou chamar esse conjunto de seções de "Javascript Moderno":
+
+Seção 10 - Node
+Seção 11 - ESNext
+Seção 16 - Ajax
+Seção 17 - Gulp
+Seção 38 - Gulp - Versão 3
+Seção 18 - Webpack
+
+Para consolidar conhecimento: Seção 20: Projeto galeria (bootstrap/JQuery/Webpack)
+
+BANCO DE DADOS E EXPRESS
+
+Seção 31 - Banco relacional
+Seção 32 - Banco não relacional
+Seção 33 - Express
+
+FAÇA A SUA ESCOLHA!
+
+A partir de agora, você tem as seguintes opções a seguir:
+
+- Fazer todas as outras seções sobre React, Vue e Angular e seus projetos;
+- Apenas a seção de React e projetos;
+- Apenas a somente a seção de Angular e projetos;
+- Apenas a somente a seção de Vue e projetos;
+Escolha uma opção e seja feliz!
+
+
+Atenção: A ordem proposta é uma opinião/sugestão pessoal e não há qualquer intuito de diminuir ou atingir a Cod3r de forma a prejudicar seu nome e negócios.
+
+O curso tem um conteúdo amplo e didaticamente é muito bom. Eu fiz o curso e indico!
+
+ATENÇÃO: Não há mágica em TI. Você precisa estudar, estudar, estudar muito! Faça um, dois, três, DEZ cursos diferentes se possível. Dedicação é a chave!

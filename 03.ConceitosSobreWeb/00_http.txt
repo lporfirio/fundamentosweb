@@ -1,0 +1,34 @@
+Grupos de Status HTTP - hypertext transfer protocol - protocolo de transferência de hipertexto
+
+1xx - informação
+2xx - sucesso
+3xx - redirecionamento
+4xx - erro no cliente
+5xx - erro no servidor
+
+
+
+____________________________________
+
+DNS - domain name system - sistema de nomes de domínio
+
+SMTP - protocolo de transferência de correio simples
+
+POP - protocolo dos correios
+
+____________________________________
+
+DHCP - protocolo de configuração de dinâmica de host
+> host é qualquer dispositivo que se conecta a rede
+> um servidor DHCP é um computador que é responsável por distribuir endereços IPS de forma dinâmica na sua rede
+
+FTP - file transfer protocol - protocolo de transferencia de arquivos
+> é uma aplicação que roda em um computador, é utilizado para carregar e baixar arquivos de um servidor
+
+____________________________________
+CAMADA DE TRANSPORTE:
+TCP (orientado a conexão)> confiável, confirma dados, re-envia dados perdidos, entrega dados na ordem que foram enviados
+exemplo: emails
+
+UDP (não estabelece conexão, simplesmente envia os dados)> rápido, não solicita confirmações, não re-envia dados perdidos, entrega dados como eles chegam
+exemplo: video streaming, live, chamadas, etc.

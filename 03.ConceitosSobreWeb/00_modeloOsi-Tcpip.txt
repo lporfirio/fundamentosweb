@@ -1,0 +1,39 @@
+MODELO OSI
+
+> Aplicação
+- fornece os meios para conectividade ponto-a-ponto entre indivíduos na rede humana usando redes de dados
+
+> Apresentação
+- fornece uma representação comum de dados tranferidos entre serviços da camada de Aplicação
+
+> Sessão
+- fornece serviços à camada de apresentação para organizar dialógo e para fazer a troca de dados
+
+> Transporte
+- define os serviços para segmentar, transferir e reunir os dados para comunicações individuais entre dispositivos finais
+
+> Rede
+- fornece os serviços para trocar pedaços individuais de dados da rede entre dispositivos finais identificados
+
+> Enlace de Dados
+- os protocolos da camada de Enlace de dados descrevem métodos para trocar quadros de dados entre dispositivos de um meio físico comum
+
+> Física
+ - os protocolos da camada física descrevem os meios mecânicos, elétricos, funcionais e procedimentais para ativar, manter e desativar conexões físicas para transmissão de bits para e/ou a partir de um dispositivo de rede
+
+ ____________________________________
+
+ conjunto de protocolos TCP IP
+
+ > aplicação
+
+ > transporte
+
+ > internet
+
+ > acesso a rede
+
+
+ ____________________________________
+
+ 
