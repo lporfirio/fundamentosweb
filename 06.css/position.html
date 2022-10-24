@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Position</title>
+    <style>
+        body {
+            margin: 0px;
+        }
+       div{
+        font-size: 60px;
+        padding: 30px;
+        border: solid 5px rgb(32, 32, 32);
+        color: white;
+       } 
+
+       .static {
+        top: 100px;
+        left: 100px;
+        background-color: steelblue;
+       }
+
+       .fixed {
+        position: fixed;
+        bottom: 30px;
+        right: 0px;
+        background-color: tomato;
+       }
+
+       .relative1 {
+        position: relative;
+        left: 50px;
+        top: 5px;
+        background-color: seagreen;
+       }
+
+       .absolute1 {
+        position: absolute;
+        left: 350px;
+        top: 120px;
+        background-color: violet;
+       }
+
+       .relative2 {
+        position: relative;
+        left: 250px;
+        background-color: slategray;
+        top: 2000px;
+        height: 200px;
+        width: 200px;
+        
+       }
+
+       .absolute2 {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        background-color: orange;
+        width: 20px;
+        height: 20px;
+       }
+
+       .sticky {
+        position: -webkit-sticky; /* safari */
+        position: sticky;
+        background-color: rgb(78, 23, 100);
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        font-size: 16px;
+        padding: 10px;
+
+       }
+
+       li {
+        display: inline-block;
+        text-decoration: none;
+        padding: 10px;
+       }
+    </style>
+</head>
+
+<body>
+    <div class="static">Static (Padrão)</div>
+    <div class="fixed">Fixed</div>
+    <div class="relative1">Relative</div>
+    <div class="absolute1">Absolute</div>
+
+    <div class="relative2">
+        <div class="absolute2"></div>
+    </div>
+
+    <div class="sticky">
+        <ul>
+            <li>home</li>
+            <li>contato</li>
+            <li>serviços</li>
+        </ul>
+
+
+    </div>
+    <p style="padding-bottom: 2000px;">Opa</p>
+</body>
+
+</html>

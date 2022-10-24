@@ -1,80 +1,118 @@
-1 prêmios
+prêmio 1
 
 COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
 
-segunda 10/10
-> 236 - ok 
-> 237 - ok
-> 238 - ok
 
-terça 11/10
-> 239 - ok
-> 240 - ok
-> 241 - ok
+sexta 20/10
+ver sobre flexbox e grid
+> repoduzir o site do vídeo: https://www.youtube.com/watch?v=6HFpw5fcaD8&ab_channel=OnlineTutorials
+____________________________________
 
-quarta 12/10
-> 242 - ok
-> 243 - ok
-> 244 - ok
+sábado 14/10
+> 254 - ok
 
-quinta 13/10
-> 245 - ok
-> 246 - ok
-> 247 - 
+domingo 15/10
+> 255 - ok 
 
-sexta 14/10
-> 248
-> 249
-> 250
+segunda 16/10
+> 256 - ok 
+> 257 - ok
+> 258 - ok
 
-sábado 15/10
-> 251
-> 252
+terça 17/10
+> 259 - ok
+> 260 - ok
+> 261 - ok
+
+quarta 18/10
+> 262 - ok
+> 263 - ok
+> 264 - ok
+
+quinta 19/10
+> 265 - ok
+> 266 - ok
+> 267 - ok
+
+sexta 20/10
+> 268 - ok
+> 269 - ok
+> 270 - ok
+
+sábado 21/10
+> 271 - ok 
+> 272 - ok
+
+domingo 22/10
+> 273 - ok
 
 
-domingo 16/10
-> 253, 
 
 
+SEMANA 5
+
+segunda 24/10
+> 277 - ok
+> 278 - ok 
+> 279 - ok
+revisão
+> 85 - ok
+> 86 - ok
+> 87 -
+
+terça 25/10
+> 280
+> 281
+> 282
+revisão
+> 77
+> 78
+> 79
+
+quarta 26/10
+> 283
+> 284
+> 285
+revisão
+> 80
+> 81
+> 82
+
+quinta 27/10
+> 284
+> 285
+> 286
+revisão
+> 83, 84
+> 85
+> 86
+
+sexta 28/10
+> 287
+> 288
+> 289
+> Exercícios
+
+sábado 29/10
+> 290
+> 291
+
+domingo 30/10
+> 292
 
 ____________________________________
 ____________________________________
 
-AULAS ASSISTIDAS
+O QUE FOI FEITO
 
-domingo
-> 216, 217, 218
-> revisão 69
+domingo 23/10 - 33d
+> 279
+-- direrença entra nodelist e htmlcolection
 
-segunda 03/10
-> 219, 220, 221, 222
-> revisão 70
+segunda 24/10
+revisão > 85, 86, 
 
-terça 04/10
-> 223, 225, 226
-> revisão 71, 72, 73
 
-quarta 05/10
-> 227, 228, 229, 230
-
-quinta 06/10
-> 231, 232, 233, 235
-
-sexta 07/10
-> 236
-revisão > 76, 77, 78
-
-sábado 08/10
-revisão > 79, 80
-
-domingo 09/10
-> 237, 238, 239
-
-segunda 10/10
-> 240, 241, 242, 243
-
-terça 11/10
-> 244, 245, 246
 
 ____________________________________
 ____________________________________

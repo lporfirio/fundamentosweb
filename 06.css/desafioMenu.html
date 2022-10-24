@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Desafio Menu</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+       /* * {
+
+            padding: 0px;
+            margin: 0px;
+            font-family: 'oswald';
+            box-sizing: border-box;
+        }
+
+        .cabecalho {
+            background-color: black;
+            color: white;
+            border-bottom: solid 4px rgb(91, 189, 255);
+        }
+
+        ul {
+            position: absolute;
+            left: 300px;
+            top: 9px;
+            list-style: none;
+            background-color: rgb(0, 0, 0);
+        }
+
+        ul li {
+            display: none;
+            padding: 16px 14px;
+            background-color: rgb(0, 0, 0);
+        }
+
+        ul li:hover {
+            background-color: #707070;
+            background-image: linear-gradient(to top );
+            color: black;
+            transition: all 0.3s;
+            transition-timing-function: ease;
+        }
+        ul a {
+            text-decoration: none;
+            color: white;
+        }
+
+        ul a:hover {
+            color: black;
+        }
+
+        aside {
+            background-color: rgb(0, 0, 0);
+            display: none;
+            position: absolute;
+            right: 4px;
+            top: 15px;
+            margin-right: 2px;
+
+        }
+
+        aside a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+            margin-right: 2px;
+            background-color: rgb(2, 2, 2);
+        }
+
+        .botao {
+            background-color: rgb(165, 26, 26);
+            border-radius: 25px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .logo{
+            height: 72px;
+        }
+
+        #imagemlogo {
+            height: 70px;
+            padding: 10px;
+        }
+
+        .menu-toggle {
+            padding: 8px;
+            position: absolute;
+            right: 10px;
+            top: 17px;
+        }
+
+        .menu-toggle:hover {
+            cursor: pointer;
+        }
+
+        @media screen and (min-width:700px) {
+            ul li {
+            display: inline-block;
+            transition: all 0.5s;
+            transition-timing-function: ease;
+        }
+
+            .menu-toggle {
+                display: none;
+            }
+        }
+
+        @media screen and (min-width:900px) {
+            aside {
+                display: block;
+            }
+        } */
+    /********************/
+        * {
+            box-sizing: border-box;
+
+        }
+
+        body {
+            margin: 0px;
+            font-family: 'oswald';
+            background-color: rgb(196, 196, 196);
+        }
+
+        .cabecalho {
+            background-color: black;
+            border-bottom: 5px solid #43e9ff;
+            height: 80px;
+            box-sizing: content-box;
+        }
+
+        .logo {
+            display: inline-block;
+            height: 80px;
+            padding: 15px;
+        }
+
+        .logo img {
+            height: 100%;
+        }
+
+        .menu-toggle {
+            float: right;
+            color: white;
+            background-color: rgb(53, 53, 53);
+            border: solid 1px rgb(75, 75, 75);
+            border-radius: 3px;
+            padding: 15px 15px;
+            margin: 15px;
+        }
+
+        .menu {
+            display: inline-block;
+            vertical-align: top;
+            height: 80px;
+            padding: 25px;
+        }
+
+        .menu ul {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .menu li {
+            display: inline-block;
+        }
+
+        .cabecalho a {
+            text-decoration: none;
+            color: white;
+            font-size: 1.3em;
+        }
+
+        .menu a {
+            padding: 15px;
+        }
+
+        .autenticacao {
+            float: right;
+            height: 80px;
+            padding: 25px;
+        }
+
+        .menu a:hover,
+        .menu a.selected {
+            background-color: #24a3b4;
+            color: black;
+        }
+
+        .botao {
+            border-radius: 30px;
+            padding: 10px 25px;
+            margin: 10px;
+        }
+
+        .destaque {
+            background-color: rgb(184, 39, 39);
+        }
+
+        @media(min-width: 679px) {
+            .menu-toggle {
+                display: none;
+            }
+        }
+
+        @media(max-width: 680px) {
+            .menu {
+                display: none;
+            }
+        }
+
+        @media(max-width: 910px) {
+            .autenticacao {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="cabecalho">
+        <div class="logo">
+            <a href="#inicio">
+                <img src="http://files.cod3r.com.br/curso-web/logo.png" alt="Logo" id="imagemlogo" />
+            </a>
+        </div>
+        <button class="menu-toggle">
+            <i class="fa fa-lg fa-bars"></i>
+        </button>
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="#inicio">Início</a>
+                </li>
+                <li>
+                    <a href="#cursos">Cursos</a>
+                </li>
+                <li>
+                    <a href="#sobre">Sobre</a>
+                </li>
+                <li>
+                    <a href="#contato">Contato</a>
+                </li>
+            </ul>
+        </nav>
+        <aside class="autenticacao">
+            <a href="#login">Login</a>
+            <a href="#registar" class="botao destaque">Registrar</a>
+        </aside>
+    </header>
+
+    <script>
+        window.onhashchange = function(e) {
+            const oldURL = e.oldURL.split('#')[1]
+            const newURL = e.newURL.split('#')[1]
+            console.log(oldURL, newURL)
+            const oldMenu = document.querySelector(`.menu a[href'#${oldURL}']`)
+            const newMenu = document.querySelector(`.menu a[href='#${newURL}']`)
+            oldMenu && oldMenu.classList.remove('selected')
+            newMenu && newMenu.classList.add('selected')
+        }
+    </script>
+</body>
+
+</html>
