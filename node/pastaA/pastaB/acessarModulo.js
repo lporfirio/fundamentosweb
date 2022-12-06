@@ -8,7 +8,7 @@ const saudacao = require('saudacao')
 console.log(saudacao.ola)
 
 
-/*
+/* MÓDULOS CORE
 const http = require('http')
 http.createServer((req, res) => {
     res.write('bom dia!')

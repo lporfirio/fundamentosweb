@@ -1,116 +1,270 @@
-prêmio 1
+prêmio 3
 
 COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
 
+SEMANA 8 - total 40 vídeos
+SEMANA 9 - total de 41 vídeos
 
-sexta 20/10
-ver sobre flexbox e grid
-> repoduzir o site do vídeo: https://www.youtube.com/watch?v=6HFpw5fcaD8&ab_channel=OnlineTutorials
+segunda 21/11
+> 381 - ok
+> 382 - ok
+> 383 - ok
+> 384 - ok
+> 385 - ok
+revisão
+> 129 - ok
+> 130 - ok
+> 131 - ok
+python
+> ex014 - ok
+> ex015 - ok 
+
+terça 22/11
+> 386 - ok
+> 387 - ok
+> 388 - ok
+revisão
+> 132 - ok
+> 133 - ok
+> 134 - ok
+python
+> aula 08 - ok
+
+quarta 23/11
+> 389 - ok
+> 390 - ok 
+revisão
+> 135 - ok
+> 136 - ok
+> 137 - ok 
+python
+> ex016 - ok
+> ex017 - ok 
+> ex018 - ok
+
+
+quinta 24/11
+> 149 - ok
+> 150 - ok
+revisão
+> 138 - ok
+> 139 - ok
+python
+> ex019 -  ok
+
+sexta 25/11
+> 151 - ok
+> 152 - ok
+revisão
+> 140 - ok
+> 141 - ok
+pyhton 
+> ex020 - ok
+
+sábado 26/11
+> 153 - ok
+> 154 - ok
+revisão
+> 142 - ok 
+python
+> ex021 - ok
+
+domingo 26/11
+> 155 - ok
+pyhton
+> aula 09 - ok
+
+COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
+
+SEMANA 10
+segunda 28/11 - total de 39 vídeos
+> 156 - ok
+> 157 - ok
+> 158 - ok
+revisão
+> 143 - ok
+> 144 - ok
+python
+> ex022 - ok
+> ex023 - ok
+
+terça 29/11
+> 159 - ok
+> 160 - ok
+> 161 - ok
+revisão
+> 145 - ok 
+> 146 - ok
+python
+> ex024 - ok
+> ex025 - ok
+> ex026 - ok
+
+quarta 30/11
+> 162 - ok
+> 163 - ok
+> 164 - ok 
+revisão
+> 149 - ok
+> 150 - ok
+python
+> ex027 - ok
+
+quinta 01/12
+> 165 - ok 
+> 166 - ok
+> 167 - ok
+revisão
+> 151 - ok
+> 152 - ok
+python
+> aula10 - ok
+
+sexta 02/12
+> 168 - ok
+revisão 
+> 153 - ok
+python
+> ex028 - ok
+
+sábado 03/12
+> 169 - ok
+revisão
+> 154 - ok
+python
+> ex029 - ok
+> ex030 - ok
+
+domingo 04/12
+> 171 - ok
+revisão
+> 155 - ok
+python
+> ex031 - ok
+
+COMPLETOU O PLANEJAMENTO DA SEMANA, LUQUINHA, PARABÉNS!!!!
+
+SEMANA 11 - total de 31 vídeos
+segunda 05/12
+> 173 - ok
+> 174 - ok
+revisão
+> 156 - ok
+> 157 - ok
+python
+> ex032 - 
+
+terça 06/12
+> 175
+> 176
+revisão
+> 158
+> 159
+> 160
+> 161
+python
+> ex033
+
+quarta 07/12
+> 177 
+> 178
+> 179
+revisão
+> 162
+> 163
+python
+> ex034
+
+quinta 08/12
+> 180
+> 181
+revisão
+> 164
+> 165
+python
+> ex035
+
+sexta 09/12
+> 182
+> 183
+revisão
+> 166
+> 167
+python
+> aula 11
+
+sábado 10/12
+> 184
+revisão
+> 168
+python
+>>
+
+domingo 11/12
+> 185
+revisão
+> 169
+python
+>>
+
+____________________________________
 ____________________________________
 
-sábado 14/10
-> 254 - ok
+O QUE FOI FEITO:
 
-domingo 15/10
-> 255 - ok 
-
-segunda 16/10
-> 256 - ok 
-> 257 - ok
-> 258 - ok
-
-terça 17/10
-> 259 - ok
-> 260 - ok
-> 261 - ok
-
-quarta 18/10
-> 262 - ok
-> 263 - ok
-> 264 - ok
-
-quinta 19/10
-> 265 - ok
-> 266 - ok
-> 267 - ok
-
-sexta 20/10
-> 268 - ok
-> 269 - ok
-> 270 - ok
-
-sábado 21/10
-> 271 - ok 
-> 272 - ok
-
-domingo 22/10
-> 273 - ok
-
-
-
-
-SEMANA 5
-
-segunda 24/10
-> 277 - ok
-> 278 - ok 
-> 279 - ok
+terça 29/11
+> 160, 161
 revisão
-> 85 - ok
-> 86 - ok
-> 87 -
+> 145, 146
+python
+> ex023, ex024, ex025, ex026
 
-terça 25/10
-> 280
-> 281
-> 282
+quarta 30/11
+> 162, 163, 164
 revisão
-> 77
-> 78
-> 79
+> 149, 150
+python
+> ex027, aula 10
 
-quarta 26/10
-> 283
-> 284
-> 285
+quinta 01/11
+> 165, 166, 167 
 revisão
-> 80
-> 81
-> 82
+> 151, 152
 
-quinta 27/10
-> 284
-> 285
-> 286
+sexta 02/11
+> 168
 revisão
-> 83, 84
-> 85
-> 86
+> 153
+python
+> ex028
 
-sexta 28/10
-> 287
-> 288
-> 289
-> Exercícios
+sábado 03/12
+> 169
+revisão
+> 154
+python
+> ex029
 
-sábado 29/10
-> 290
-> 291
+domingo 04/12 dia 75
+> 171
+revisão
+> 155
+python
+> ex031
 
-domingo 30/10
-> 292
+segunda 05/12
+> 173, 174
+revisão
+> 156, 157
+python
+> ex032
 
-____________________________________
-____________________________________
-
-O QUE FOI FEITO
-
-domingo 23/10 - 33d
-> 279
--- direrença entra nodelist e htmlcolection
-
-segunda 24/10
-revisão > 85, 86, 
+terça 06/12
+>
+revisão
+>
+python
+>
 
 
 

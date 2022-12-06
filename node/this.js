@@ -13,6 +13,7 @@ function logThis() {
 
 logThis()
 
-const logThisArrow = () => console.log(this)
+// dentro de arrow function o THIS aponta para module.exports
+const logThisArrow = () => console.log(this === module.exports)
 
 logThisArrow()

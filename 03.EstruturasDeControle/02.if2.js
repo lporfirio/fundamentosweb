@@ -9,7 +9,7 @@ teste1(6)
 console.log('')
 teste1(8)
 
-function teste2(num) {        //// evitar ponto e vírgula ;;;
+function teste2(num) {        //// evitar ponto e vírgula nas estruturas de controle;;;
     if (num > 7); 
     
     {

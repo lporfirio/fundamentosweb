@@ -11,7 +11,7 @@ app.get('/produtos', (req, res, next) => {
     res.send(bancoDeDados.getProdutos())
 })
 
-app.get('/produtos/:id', (req, res, next) =>{
+app.get('/produtos/:id', (req, res, next) =>{                 // :id forma de buscar parâmetros 
     res.send(bancoDeDados.getProduto(req.params.id))
 })
 

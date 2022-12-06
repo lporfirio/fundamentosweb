@@ -10,10 +10,12 @@ console.log(conteudo)
 
 // assincrono..
 fs.readFile(caminho, 'utf-8', (err, conteudo) => {
-    const config = JSON.parse(conteudo)
+    const config = JSON.parse(conteudo) // para passar de JSON para objeto
     console.log(`${config.db.host}:${config.db.port}`)
 })
 
+
+/*************/
 const config = require('./arquivo.json') // lê o arquvio JSON e já converte para objeto
 console.log(config.db)
 
