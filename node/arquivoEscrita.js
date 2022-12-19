@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs') // fs é um módulo do node. filesystem
 
 const produto = {
     nome: 'celular',

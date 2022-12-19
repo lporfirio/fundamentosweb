@@ -2,9 +2,9 @@
 
 const aprovados = ['agatha','aldo','daniel','raquel']
 
-aprovados.forEach(function(nome, indice, array) {
+aprovados.forEach(callback = (nome, indice, array) => {
     console.log(`${indice+1}) ${nome}`)
-    console.log(array)
+    // console.log(array)
 })
 
 aprovados.forEach(nome => console.log(nome)) 
