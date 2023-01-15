@@ -16,3 +16,6 @@ funcionarOuNao('testando', 0.5)
     )
     .then(() => console.log('fim!'))
     .catch(err => console.log(`ERRO Geral: ${err}`) )            // forma de tratar erro.. 'método catch' // colocar no final do fluxo
+
+
+ 
