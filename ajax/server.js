@@ -3,11 +3,11 @@ const express = require('express')
 const app = express()
 
 
-app.use(express.static('.')) // para qualquer requisição/qualquer URL
-app.use(bodyParser.urlencoded({ extended: true })) // passa qualquer dado para 'Objeto'
+app.use(express.static('.')) // para os arquivos estáticos 
+app.use(bodyParser.urlencoded({ extended: true })) // para qualquer requisição/qualquer URL / passa qualquer dado para 'Objeto'
 app.use(bodyParser.json()) // passa qualquer JSON apra 'Objeto'
 
-const multer = require('multer')
+const multer = require('multer') // para interpretar o formulário do arquivo do upload
 
 const storage = multer.diskStorage({
     destination: function (req, file, callback) {
@@ -29,7 +29,7 @@ app.post('/upload', (req, res) => {
         res.end('concluído com sucesso.')
     })
 })  
-
+ 
 app.post('/formulario', (req, res) => {
     res.send({
         ...req.body,

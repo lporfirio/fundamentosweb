@@ -13,7 +13,7 @@
     <script>
         function ajax(config) {
             const xhr = new XMLHttpRequest()
-            xhr.open(config.metodo, config.url, true)
+            xhr.open(config.metodo, config.url, true) // 3° parâmetro é para rodar a requisição de forma assincrona // open para abrir a requisição
 
             xhr.onload = e => {                    // 'onload' quando termina de carregar os dados
                 if (xhr.status === 200) {
@@ -25,7 +25,7 @@
                     })
                 }
             }
-            xhr.send()
+            xhr.send() // send() vai enviar de fato a requisição
         }
 
         function criarTabela(estados) {

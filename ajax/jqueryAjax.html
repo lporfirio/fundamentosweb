@@ -15,7 +15,7 @@
 
     <script>
         function exibirResultado(id, dados) {
-            const texto = JSON.stringify(dados)
+            const texto = JSON.stringify(dados) // é utilizada para transformar os dados retornados pela requisição em uma string no formato JSON. Isso é feito para que os dados possam ser exibidos na página.
             document.getElementById(id).innerHTML = texto
         }
 

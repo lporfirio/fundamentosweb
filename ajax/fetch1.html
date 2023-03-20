@@ -3,7 +3,7 @@
 
 <head>
     <meta charset='UTF-8'>
-    <title>Fetch API #01</title>
+    <title>Fetch API #01 // usando GET</title>
     <link rel='stylesheet' href='css/estilo.css'>
 </head>
 
@@ -13,7 +13,7 @@
     <script>
         const url = 'dados/estados.json'
         fetch(url)
-            .then(resp => resp.json())
+            .then(resp => resp.json()) // json() converte para objeto
             .then(estados => {
                 const itens = estados.reduce(
                     (html, estado) => html + `<li>${estado.nome}</li>`, ''

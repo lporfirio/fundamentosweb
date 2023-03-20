@@ -51,7 +51,6 @@
 
         }, 1000)
 
-
         return this
     }
 })(jQuery)

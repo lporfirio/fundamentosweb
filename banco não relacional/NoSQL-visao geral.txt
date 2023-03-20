@@ -1,0 +1,12 @@
+NoSQL - Not only SQL (não apenas SQL)
+
+bancos chave/valor - REDIS
+bancos baseados em documentos - MONGO DB (json)
+bancos baseados em grafo - NEO4J
+bancos baseados em coluna - BIGTABLE, CASSANDRA
+
+
+MONGO
+> documento - json
+> db > collections(tabelas) > docs (linhas)
+> sem SQCHEMA

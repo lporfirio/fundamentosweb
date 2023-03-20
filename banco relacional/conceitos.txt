@@ -1,0 +1,63 @@
+"BANCO RELACIONAL"
+
+-SGBD
+sistemas gerenciadores de banco de dados
+-> MySQL (gratuito)
+-> Oracle
+
+usa a linguagem SQL - structure query language (linguagem de consultas estruturadas)
+
+modelo E/R  - Entidade / Relacionamento
+
+entidade seria a tabela,... os dados são armazenados de forma tabular
+cada coluna tem um tipo, as linhas representam os dados da tabela
+
+relacionamento entre tabelas para mapear um dado até o outro de forma coerente
+
+
+
+CHAVE PRIMÁRIA - primary key (pk)
+- única
+- na maioria das vezes é UMA coluna na tabela
+- não vazia
+- não muda
+- vai servir para gerar o relacionamento dentro do banco de dados
+- fazer pesquisas por chave primária é muito rápido
+
+surrogate key - chave primária - chave sintética
+natural key - chave natural (cpf, rg, etc.)
+
+RELACIONAMENTOS
+
+FK - Foreing Key ( chave estrangeira )
+quando uma chave primária vai para outra tabela, criando uma nova coluna nessa tabela
+- não se pode apagar uma chave primaria se ela tiver uma chave estrangeira
+
+relacionamento pode ser 
+de 1 pra MUITOS
+1 pra 1 - adicionando restrição "UNIQUE"
+muitos pra muitos - criar tabela intermediária com duas FK
+
+
+
+
+SQL 
+é dividida em 4 partes
+dml - data manipulation language (select, update, delete, insert // CRUD) // trabalhar com os dados
+ddl - data definition language (create, alter, drop )  // trabalhar o esquema/estrutura
+dcl - data control language (grant, deny, revoke)
+tcl - transaction control language (begin trans, commit trans, rollback)
+
+
+
+TIPOS DE JOINS  
+inner join
+outer
+left join - o inner + o lado esquerdo
+right join - o inner + o lado direito
+full join - resultado do left join com o right join
+
+
+tabela estados | 1 pra muitos | cidades
+cidades | 1 pra 1 | prefeitos
+cid_emp | muitos pra muitos | cidades | empresas

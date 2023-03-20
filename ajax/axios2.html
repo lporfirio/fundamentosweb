@@ -19,16 +19,16 @@
             document.getElementById(id).innerHTML = texto
         }
         
-        // axios.get('parOuImpar?numero=5').then(resp => exibirResultado('get', resp.data))
+        // axios.get('parOuImpar?numero=5').then(resp => exibirResultado('get', resp.data)) // o padrão é fazer uma requisição GET
        
         axios.get('parOuImpar', {
             params: {
-                numero: 6
+                numero: 4
             }
         }).then(resp => exibirResultado('get', resp.data))
 
         axios.post('formulario', {
-            nome: 'joao',
+            nome: 'lucas',
             sobrenome: 'silva'
         }).then(resp => exibirResultado('post',resp.data))
 

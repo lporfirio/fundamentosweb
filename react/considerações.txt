@@ -1,0 +1,1 @@
+para criar um novo projeto 'npx create-react-app nomedoprojeto'

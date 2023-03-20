@@ -1,0 +1,11 @@
+ show dbs // mostrar bancos de dados
+
+ show collections // monstrar coleções
+
+ db.createCollection('nome') // criar collections
+
+ db.nome.drop() // apagar collection
+
+  db.estados.insert({nome:"Alagoas", sigla: "AL", regiao: "Nordeste", populacao: 3322000}) // inserir dados na collection
+
+  db.estados.find() // exibir dados da collection

@@ -1,0 +1,40 @@
+JQUERY
+jQuery é uma biblioteca de JavaScript que facilita a manipulação do HTML, o tratamento de eventos e a criação de animações. 
+
+
+
+__________________________________________
+AJAX - (Asynchronous JavaScript and XML) 
+É um conjunto de técnicas para criar aplicativos web mais ricos e interativos. Ele permite que uma página web faça requisições assíncronas para o servidor sem precisar recarregar a página inteira. Isso permite que as aplicações web funcionem de forma mais rápida e suave, já que somente partes específicas da página precisam ser atualizadas.
+
+EXPRESS
+Express é um framework para aplicativos Node.js que fornece uma estrutura de roteamento e gerenciamento de middleware para aplicativos web e API. Ele é construído sobre o módulo http do Node.js e adiciona recursos adicionais para ajudar a criar aplicativos web e API de forma rápida e fácil.
+É uma das opções mais populares para a criação de aplicativos web e API utilizando Node.js, devido a sua simplicidade, flexibilidade e ampla variedade de middleware disponíveis.
+
+FETCH API
+A Fetch API é uma interface do JavaScript que fornece uma maneira fácil de realizar requisições HTTP (como GET, POST, PUT e DELETE) e manipular respostas. Ele é construído sobre o objeto XMLHttpRequest (ou XHR) e é mais moderno e flexível do que o método XHR tradicional.
+A Fetch API é baseada em promessas, o que significa que você pode usar .then() e .catch() para lidar com a resposta de uma requisição. Por exemplo, o código a seguir faz uma requisição GET para uma URL específica e, em seguida, imprime a resposta na tela usando console.log()
+
+AXIOS 
+Axios é uma biblioteca amplamente utilizada e confiável para lidar com requisições HTTP no JavaScript, tanto no lado do cliente quanto no lado do servidor.
+É um cliente HTTP baseado em promise para o browser e o Node.js. Ele permite que você envie solicitações HTTP (como GET, POST, PUT, DELETE, etc.) de forma fácil e síncrona ou assíncrona. Além disso, ele suporta vários recursos avançados, como cancelamento de solicitações, autenticação básica e interceptação de solicitações e respostas.
+
+BOOTSTRAP
+Bootstrap é um framework de design front-end open-source que visa ajudar os desenvolvedores a criar aplicativos web responsivos e de aparência atraente de forma rápida e fácil. Ele fornece uma ampla gama de componentes pré-projetados, como menus de navegação, formulários, tabelas, botões, modais, carrossel, entre outros, além de uma série de classes de estilo que facilitam a personalização de aparência.
+
+NEXT JS
+Versão framework da biblioteca REACT, com diversas ferramentas otimizadas. Parte de Frontend e Backend.
+
+
+__________________________________
+BANCO DE DADOS
+__________________________________
+
+MYSQL Server
+É um sistema de gerenciamento de banco de dados relacional de código aberto que é amplamente utilizado em aplicativos da web e de negócios. 
+Permite armazenar, gerenciar e manipular grandes quantidades de dados estruturados em tabelas, usando uma linguagem de consulta padrão chamada SQL (Structured Query Language).
+
+MYSQL Workbench
+É uma ferramenta gráfica de administração de banco de dados que é usada para gerenciar, modelar e visualizar bancos de dados MySQL. Ele é desenvolvido pela Oracle Corporation e é uma das ferramentas mais populares para administrar bancos de dados MySQL.
+Permite que os usuários gerenciem bancos de dados MySQL através de uma interface gráfica do usuário (GUI) intuitiva e fácil de usar. Ele oferece recursos avançados, como modelagem de dados, engenharia reversa, consultas SQL, migração de dados e ferramentas de administração de servidor. Ele também suporta o desenvolvimento de aplicativos, fornecendo uma interface para criar e gerenciar esquemas de banco de dados, tabelas, índices e chaves estrangeiras.
+
