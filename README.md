@@ -1,3 +1,3 @@
 # fundamentosweb
 
-Pastas e arquvios de estudo
+Pastas e arquivos de estudo
