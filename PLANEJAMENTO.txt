@@ -21,31 +21,56 @@ ____________________________________
 
 segunda 20/03
 mongodb
-> 591
-> 592
-> 593
+> 591 - ok
+> 592 - ok
+> 593 - ok
+> 594 - ok
 python
 > classes 1 - ok
+
 terça 21/03
+mongodb
+> 595 - ok
+> 596 - ok
+> 597 - ok
+python
+> novo projeto, classe e tkinter
 
-quarta 22/03
+>> FIQUEI DOENTE << alguns dias de repouso, sem estudar
 
-quinta 23/03
+sábado 25/03 -- me sentindo um pouquinho melhor
+> 598 - ok
 
-sexta 24/03
+domingo 26/03 -- me sentindo bem melhor, uns 80%
+> rocketseat - ambiente dev
+> guia estelar - HTML
 
-sábado 25/03
+segunda 27/03
+> rocketseat - conceitos HTML
+> mongodb - 599
 
-domingo 26/03
+terça 28/03
+> rocketseat - trabalhando com elementos
+> mongodb- 600
+
+quarta 29/03
+> rocketseat - HTML - links
+
+quinta 30/03
+> rocketseat - HTML - tabelas
+> mongodb - 601
+> mongodb - 602
+> projeto em Python
+
+sexta 31/03
+> rocketseat - HTML - cabeçalho
+> projeto em python
 
 O QUE FOI FEITO:
 
 2023
 
 ___________________
-
-domingo 19/03 - dia 165
-> mongodb
 
 
 
